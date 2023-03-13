@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, Bienvenue sur mon profil ! <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hey 👋, Bienvenue sur mon profil !</h1>
 <h3 align="center">Un étudiant en BTS SIO option SLAM dans le Nord de la France 🇫🇷</h3>
 
 - 🔭 Je travaille actuellement sur le projet **Improve Your Ball**
