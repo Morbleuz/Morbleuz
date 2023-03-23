@@ -9,7 +9,7 @@
 
 - 📫 Pour me contacter : **laudeaxel.pro@gmail.com**
 
-- ⚡ Mes passions : **J'aime le basket, le vélo de route, la mécanique, les jeux vidéos et éventuellement coder**
+- ⚡ Mes passions : **J'aime le basket, le vélo de route, la mécanique, les jeux vidéo et éventuellement coder**
 
 <h3 align="center">Connectez-vous avec moi :</h3>
 <div align="center">
