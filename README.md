@@ -1,15 +1,13 @@
 <h1 align="center">Hey 👋, Bienvenue sur mon profil !</h1>
-<h3 align="center">Un étudiant en BTS SIO option SLAM dans le Nord de la France 🇫🇷</h3>
+<h3 align="center">Un étudiant en Bachelor DEVOPS à l'EPSI Lille 🇫🇷</h3>
 
-- 🔭 Je travaille actuellement sur le projet **Improve Your Ball**
+- 🔭 Je travaille actuellement sur le projet **?**
 
-- 🌱 En ce moment j'apprends **Flutter, .NET et Symfony Framework**
-
-- 👨‍🎓 J'intègre l'**EPSI** dans le bachelor **Devops** l'année prochaine 
+- 🌱 En ce moment j'apprends **Python**
 
 - 📫 Pour me contacter : **laudeaxel.pro@gmail.com**
 
-- ⚡ Mes passions : **J'aime le basket, le vélo de route, la mécanique, les jeux vidéo et éventuellement coder**
+- ⚡ Mes passions : **J'aime le basket, le vélo, la mécanique, les jeux vidéo et éventuellement coder**
 
 <h3 align="center">Connectez-vous avec moi :</h3>
 <div align="center">
@@ -34,6 +32,9 @@
   <a href="https://dart.dev/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> 
   </a> 
+  <a href="https://www.python.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>
   <a href="https://symfony.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original-wordmark.svg" alt="symfony" width="40" height="40"/> 
   </a> 
