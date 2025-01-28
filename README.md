@@ -1,9 +1,9 @@
 <h1 align="center">Hey 👋, Bienvenue sur mon profil !</h1>
-<h3 align="center">Un étudiant en Bachelor DEVOPS à l'EPSI Lille 🇫🇷</h3>
+<h3 align="center">Un étudiant en M1 EISI à l'EPSI Lille 🇫🇷</h3>
 
-- 🔭 Je travaille actuellement sur le projet **?**
+- 🔭 Je travaille actuellement sur le projet **🤫**
 
-- 🌱 En ce moment j'apprends **Python**
+- 🌱 En ce moment j'apprends **React**
 
 - 📫 Pour me contacter : **laudeaxel.pro@gmail.com**
 
